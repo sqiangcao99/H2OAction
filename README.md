@@ -1,5 +1,5 @@
 # Two-Stream Modeling for Egocentric Interaction Recognition
----
+
 Code repository for our solution to the [H2O-Action Challenge](https://codalab.lisn.upsaclay.fr/competitions/4820#results).
 
 ## Install
